@@ -4,28 +4,11 @@
 
 
 <div align="center">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=d9m0n4&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=d9m0n4&show_icons=true&hide=TeX"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d9m0n4&show_icons=true&hide=TeX"/>
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=d9m0n4&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=d9m0n4&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=d9m0n4&show_icons=true" />
-</picture>
+  <a href="https://github.com/d9m0n4/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=d9m0n4" />
+</a>
+<a href="https://github.com/d9m0n4/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d9m0n4&layout=compact&show_icons=true&hide=TeX&langs_count=4&card_width=320"/>
+</a>
 
 </div>
